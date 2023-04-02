@@ -8,7 +8,7 @@ Motivated Full-stack Web Developer with 2 years of experience creating pixel-per
 
 * 🌍  I'm based in Valsad
 * ✉️  You can contact me at [by9714322072@gmail.com](mailto:by9714322072@gmail.com)
-* 🧠  I'm learning DevOps
+* 🧠  I am improving myself in programming
 
 ### Skills
 
