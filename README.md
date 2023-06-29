@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-Motivated Full Stack Developer with 2 years of experience creating pixel-perfect applications with scalable architecture and best practices. Proficient in  React, Angular, Vue, Node, Express, and databases such as PostgreSQL and MongoDB. A strong problem solver with excellent communication skills and experience working in teams.
+Motivated Full Stack Engineer with 2 years of experience creating pixel-perfect applications with scalable architecture and best practices. Proficient in  React, Node, Express, and databases such as PostgreSQL and MongoDB. A strong problem solver with excellent communication skills and experience working in teams.
 
 * 🌍  I'm based in Valsad
 * ✉️  You can contact me at [by9714322072@gmail.com](mailto:by9714322072@gmail.com)
