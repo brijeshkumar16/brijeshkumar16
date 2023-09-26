@@ -16,5 +16,5 @@
 
 I'm always open to discussing your project needs or offering advice. Feel free to reach out, and let's explore how I can contribute to your next digital endeavor.
 
-[Email](mailto:by9714322072@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/brijeshkumar-yadav-201032290/)https://www.linkedin.com/in/brijeshkumar-yadav-201032290/) 
+[Email](mailto:by9714322072@gmail.com) | [LinkedIn](https://www.linkedin.com/in/brijeshkumar-yadav-201032290/) 
 
