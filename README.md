@@ -2,7 +2,7 @@
 👋 Hi, I'm Brijeshkumar Yadav, a passionate Full Stack Developer with 2+ years of experience. I specialize in creating exceptional web applications with the latest technologies and tools.
 
 ## Skills:
-**Frontend:** HTML5, CSS3, Tailwind CSS, SASS, JavaScript, TypeScript, ReactJS, NextJS, Redux, AntD, Material UI, shadcn/ui <br>
+**Frontend:** HTML5, CSS3, Tailwind CSS, SASS, JavaScript, TypeScript, ReactJS, NextJS, Redux, VueJS, NuxtJS, AntD, Material UI, shadcn/ui <br>
 **Backend:** NodeJS, ExpressJS <br>
 **Databases:** MongoDB, PostgreSQL, MySQL
 
