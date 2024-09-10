@@ -1,11 +1,16 @@
-Hi, I'm Brijeshkumar Yadav with 3+ years of experience in front-end development, I specialize in creating sleek and user-friendly web applications. My expertise includes HTML5, CSS3, JavaScript, TypeScript, and modern frameworks like ReactJS and NextJS. I’m adept at leveraging UI toolkits such as Tailwind CSS and Material UI to build responsive and engaging interfaces.
+Hi there! 👋 I’m **Brijeshkumar Yadav**, a passionate Frontend Developer with 3+ years of experience, specializing in building sleek, user-friendly, and responsive web applications. I bring creativity and technical expertise to every project, delivering digital experiences that delight users.
 
-My Tech Stack: <br/>
-Languages: HTML5, CSS3, SASS, JavaScript, TypeScript <br/>
-Frameworks: ReactJS, NextJS, Redux <br/>
-UI Toolkits: Tailwind CSS, AntD, Material UI, shadcn/ui, Bootstrap <br/>
+#### 🚀 My Tech Stack
 
-I’m passionate about delivering exceptional digital experiences and am always eager to tackle new and exciting projects. Let’s connect and explore how we can bring your vision to life.
+- **Languages**: HTML5, CSS3, SASS, JavaScript, TypeScript
+- **Frameworks**: ReactJS, NextJS, Redux
+- **UI Toolkits**: Tailwind CSS, Ant Design (AntD), Material UI, shadcn/ui, Bootstrap
 
-Best, <br/>
-Brijeshkumar Yadav
+With a deep understanding of modern frontend frameworks and UI libraries, I thrive on creating interactive, high-performance user interfaces. Whether it's developing simple landing pages or complex web applications, I'm driven to deliver exceptional results.
+
+I’m passionate about turning ideas into reality and solving problems with creative, innovative frontend solutions. Constantly learning and adapting to new technologies, I ensure every project I work on is efficient, responsive, and engaging.
+
+Feel free to reach out if you're interested in collaborating or just want to connect. Let's bring your ideas to life!
+
+**Best,**  
+**Brijeshkumar Yadav**
